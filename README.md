@@ -1,1 +1,2 @@
-# LukeSchmitt96
+# Luke Schmitt (he/him)
+[Website](lukeschmitt.me)
