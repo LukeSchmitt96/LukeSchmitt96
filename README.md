@@ -1,2 +1,2 @@
 # Luke Schmitt (he/him)
-### [Website](lukeschmitt.me)
+### [Website](https://lukeschmitt.me/)
