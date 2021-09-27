@@ -1,5 +1,5 @@
 # Luke Schmitt (he/him)
 
-Currently working on reinforcement learning based tethered quadcopter control policies using PyBullet and OpenAI Gym.
+Working at Trossen Robotics - Interbotix where I get to work on cool robots all day. Check out [my work](https://github.com/LSinterbotix) there.
 
 [Website](https://lukeschmitt.me/)
